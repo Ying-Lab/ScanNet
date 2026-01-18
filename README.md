@@ -15,10 +15,11 @@ Installation
 ```bash
 git clone https://github.com/Ying-Lab/ScanNet.git
 cd ScanNet/ScanNet
-conda create -n ScanNet python=3.9.21
+conda create -n ScanNet python=3.9
 conda activate ScanNet
 pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu118
-pip install -r requirements.txt 
+pip install -r requirements.txt
+pip install jupyterlab ipykernel
 ```
 
 Parameters
