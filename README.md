@@ -13,7 +13,7 @@ Installation
 -----
 
 ```bash
-git clone https://github.com/Ying-Lab/ScanNet
+git clone https://github.com/Ying-Lab/ScanNet.git
 cd ScanNet/ScanNet
 conda create -n ScanNet python=3.9.21
 conda activate ScanNet
