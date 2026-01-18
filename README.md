@@ -5,7 +5,7 @@ ScanNet: Single-cell annotation informed by transcriptional regulation Network v
 Prerequisites
 -----
 
-- Python 3.9.21
+- Python 3.9
 - torch 2.5.1+cu118
 - cuda >= 11.8 (our cuda is 12.6)
 
