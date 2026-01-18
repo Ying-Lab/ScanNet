@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 Parameters
 -----
-dataset: training dataset
+dataset: Training dataset
 
 cross_protocol: Wheather training across platforms. Default is False.
 
